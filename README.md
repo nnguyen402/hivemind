@@ -1,5 +1,6 @@
-# HiveMindr
-Idea Bucket (Collaborative Brainstorm Board): 
+## HiveMindr
+
+# Idea Bucket (Collaborative Brainstorm Board): 
 
 Think "shared Notion" for pitch ideas, feature requests, side projects.
 
