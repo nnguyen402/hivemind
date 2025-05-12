@@ -17,7 +17,7 @@
 * Hosting: Vercel or Netlify
 * Optional: Integrate OpenAI API to suggest ideas to user
 
-##📅 Possible Project Timeline (MVP)
+## 📅 Possible Project Timeline (MVP)
 This is our rough working timeline to guide sprints and milestones.
 
 Week	Tasks
